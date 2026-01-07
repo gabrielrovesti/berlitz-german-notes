@@ -1,84 +1,141 @@
-# Berlitz German Notes 🇩🇪
+# Learning German Notes
 
-A structured collection of my personal notes, exercises, and solutions from the **Berlitz German language course (A1)**.
+Raccolta strutturata e mantenuta nel tempo di **appunti personali, esercizi svolti e soluzioni complete** del corso di tedesco **Berlitz – livello A1**, integrata con materiale di auto-studio e note di consolidamento.
 
-This repository is meant to be:
-- a **study companion**
-- a **personal knowledge base**
-- a **reference for revision and exam preparation**
+Questo repository nasce come:
+
+* **base di conoscenza personale**
+* supporto allo **studio quotidiano**
+* riferimento stabile per **ripasso e preparazione esami**
+* archivio ordinato di grammatica, lessico e strutture
 
 ---
 
-## 📚 Contents
+## 📁 Struttura del repository
 
-The repository is organized by lessons and modules:
+Il contenuto è organizzato per **lezioni con docente**, **moduli di auto-apprendimento** e **materiale futuro**.
 
 ```
-
 .
-├── Lezione 1
-├── Lezione 2
-├── ...
-├── Cyberteacher (self-learning-modules)
-├── Altre (future lessons)
-├── Tedesco semplice (per davvero).md (resume to be added about all lessons done)
-
+├── Cyberteacher/
+│   ├── Aggettivi
+│   ├── Avverbi
+│   ├── Declinazione - nomi, aggettivi, articoli
+│   ├── Forme verbali
+│   ├── Nomi e articoli
+│   ├── Preposizioni
+│   ├── Pronomi
+│   ├── Struttura della frase
+│   ├── Verbi e tipologie
+│   └── Verbi modali
+│
+├── Lezioni con docenti/
+│   ├── Lezione 1
+│   ├── Lezione 2
+│   ├── ...
+│   └── Lezione 17
+│
+├── Prossime lezioni/
+│   ├── Modulo 10 - Kleidungsstücke
+│   ├── Modulo 11 - Welcher / Welche / Welches
+│   ├── ...
+│   └── Modulo 30 - Können, müssen, dürfen, sollen
+│
+├── Tedesco semplice (per davvero).md
+├── Indicazioni generali e KPI.md
+└── Prompt per soluzioni.md
 ```
 
-Each lesson typically contains:
-- original **German exercises**
-- **fully solved exercises**
-- **Italian translations**
-- explanations of grammar and vocabulary
-- **numbers, prices, and times written as they are pronounced in German**
+---
+
+## 📚 Lezioni con docenti
+
+Ogni **Lezione** può includere:
+
+* materiale originale Berlitz (PDF)
+* esercizi svolti in **Markdown**
+* traduzione completa **tedesco → italiano**
+* feedback del docente
+* homework e preparazione alla lezione successiva
+
+La struttura distingue chiaramente tra:
+
+* `Lezione prenotata`
+* `Materiale`
+* `Homework` (quando presente)
 
 ---
 
-## 🧠 Learning Focus
+## 🧠 Cyberteacher (auto-studio)
 
-- Ordering food and drinks
-- Restaurant and café dialogues
-- Menus and food vocabulary
-- Polite requests (*möchten, bitte, zahlen*)
-- Articles (*ein / eine / einen*)
-- Everyday spoken German (A1 level)
+La cartella **Cyberteacher** raccoglie moduli teorici organizzati per argomento grammaticale:
 
----
+* declinazioni (nominativo, accusativo, dativo, genitivo)
+* verbi (tempi, modali, separabili, riflessivi, passivo)
+* pronomi e articoli
+* struttura della frase
+* preposizioni con caso
+* avverbi e aggettivi
 
-## ✍️ Method
-
-For each module:
-1. Original instructions are **copied verbatim**
-2. Exercises are **fully solved**
-3. Every sentence is **translated into Italian**
-4. Numbers, prices, and times are **written in words**  
-   Example:
-   - `16,20 €` → *sechzehn Euro zwanzig*
-   - `13.30 Uhr` → *dreizehn Uhr dreißig*
-
-This makes the notes usable even without audio support.
+Questa sezione funziona come **manuale grammaticale A1 compatto**, separato dalle lezioni cronologiche.
 
 ---
 
-## 🎯 Target Level
+## ✍️ Metodo di lavoro
 
-- **CEFR level:** A1 (beginner)
-- Suitable for:
-  - self-learners
-  - revision
-  - exam preparation
-  - structured note-taking
+Per ogni modulo o lezione rilevante:
+
+1. Le **consegne originali** sono riportate integralmente
+2. Gli esercizi sono **svolti completamente**
+3. Ogni frase è **tradotta in italiano**
+4. Numeri, orari e prezzi sono **scritti per esteso in tedesco**
+
+Esempi:
+
+* `16,20 €` → *sechzehn Euro zwanzig*
+* `13.30 Uhr` → *dreizehn Uhr dreißig*
+* `7.45 Uhr` → *sieben Uhr fünfundvierzig*
+
+Questo rende i materiali utilizzabili anche **senza supporto audio**.
 
 ---
 
-## 📄 License
+## 🎯 Focus linguistico
 
-This repository is licensed under the **MIT License**.  
-Notes are personal and educational in nature.
+Livello **A1**, con particolare attenzione a:
+
+* dialoghi quotidiani (caffè, ristorante, ufficio)
+* ordinazioni e pagamenti
+* richieste educate (*möchten, bitte, zahlen*)
+* articoli e casi di base
+* verbi modali
+* routine giornaliera e tempo
+* tedesco parlato semplice ma corretto
 
 ---
 
-## 🚧 Status
+## 📌 Livello e destinatari
 
-🟢 Actively updated  
-More lessons and refinements will be added over time.
+* **QCER:** A1
+* Utile per:
+
+  * auto-studio strutturato
+  * ripasso mirato
+  * studenti Berlitz
+  * costruzione di appunti solidi e riutilizzabili
+
+---
+
+## 📄 Licenza
+
+Distribuito sotto **MIT License**.
+I contenuti sono di natura **personale ed educativa**.
+
+---
+
+## 🚧 Stato del progetto
+
+🟢 Attivamente mantenuto
+Lezioni, moduli e rifiniture vengono aggiunti progressivamente.
+
+Dimmi tu.
